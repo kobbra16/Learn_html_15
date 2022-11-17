@@ -1,0 +1,35 @@
+/* #d1 { */
+
+
+/* text-decoration: underline; */
+
+
+/* } */
+
+
+/* #d2 { */
+
+
+/* text-decoration: line-through; */
+
+
+/* } */
+
+
+/* #d3 { */
+
+
+/* text-decoration: overline; */
+
+
+/* } */
+
+#d1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
+
+div {
+    display: block;
+}
